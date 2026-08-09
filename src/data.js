@@ -1,0 +1,48 @@
+export const products = [
+  {
+    id: 21,
+    name: "Chocolate Fudge Cake",
+    description: "Rich chocolate layered cake",
+    category: "Cake",
+    price: 7.99,
+    rating: 4.9,
+    image: "cake-1.jpg",
+  },
+  {
+    id: 22,
+    name: "Red Velvet Cake",
+    description: "Cream cheese frosting",
+    category: "Cake",
+    price: 7.49,
+    rating: 4.8,
+    image: "cake-2.jpg",
+  },
+  {
+    id: 23,
+    name: "Black Forest Cake",
+    description: "Chocolate sponge with cherries",
+    category: "Cake",
+    price: 7.99,
+    rating: 4.7,
+    image: "cake-3.jpg",
+  },
+  {
+    id: 24,
+    name: "Chocolate Fudge Cake",
+    description:
+      "Rich chocolate sponge layer cake coated with smooth dark chocolate.",
+    category: "Cake",
+    price: 6.99,
+    rating: 4.6,
+    image: "cake-4.jpg",
+  },
+  {
+    id: 25,
+    name: "Strawberry Cake",
+    description: "Fresh strawberries and whipped cream",
+    category: "Cake",
+    price: 7.99,
+    rating: 4.8,
+    image: "cake-5.jpg",
+  },
+];
